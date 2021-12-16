@@ -1,0 +1,15 @@
+.main {
+    margin: 0 300px;
+    border: 6px solid orange;
+    padding:20px 8px 100px;
+    box-shadow: 8px 8px 8px #ccc;
+}
+.text-center {
+    text-align: center;
+}
+.text-bold {
+    font-weight: bold;
+}
+.color-primary {
+    color:orange;
+}

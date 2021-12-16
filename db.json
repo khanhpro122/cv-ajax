@@ -1,0 +1,20 @@
+{
+    "info":[
+        {
+            "job": "Intership",
+            "name":"Nguyen Duy Khanh",
+            "dayOfBirth":"02/04/2000",
+            "enjoy": "đá banh, chơi game,...",
+            "sex": "nam",
+            "phone": "0819296297",
+            "address": "Ho Chi Minh city",
+            "fontend":"HTML,CSS,JAVASCRIPT",
+            "backend":"NodeJS,PHP",
+            "database": "MongoDB, SQL",
+            "school": "Imfomation technology from 10/2018 to now",
+            "email":"khanh.nttu0204@gmail.com",
+            "shopee": "by html,css,js",
+            "shoot": "by c#"
+        }
+    ]
+}
